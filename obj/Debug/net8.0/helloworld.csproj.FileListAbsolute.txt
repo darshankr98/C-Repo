@@ -1,0 +1,14 @@
+/home/captain-thanos/Codes/dotnet/C#/helloworld/bin/Debug/net8.0/helloworld
+/home/captain-thanos/Codes/dotnet/C#/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/home/captain-thanos/Codes/dotnet/C#/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/home/captain-thanos/Codes/dotnet/C#/helloworld/bin/Debug/net8.0/helloworld.dll
+/home/captain-thanos/Codes/dotnet/C#/helloworld/bin/Debug/net8.0/helloworld.pdb
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.dll
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.pdb
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/ref/helloworld.dll
