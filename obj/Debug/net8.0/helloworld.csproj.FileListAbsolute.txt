@@ -12,3 +12,18 @@
 /home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.pdb
 /home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
 /home/captain-thanos/Codes/dotnet/C#/helloworld/obj/Debug/net8.0/ref/helloworld.dll
+D:\Programming Codes 2024\C#\C-Repo\bin\Debug\net8.0\helloworld.exe
+D:\Programming Codes 2024\C#\C-Repo\bin\Debug\net8.0\helloworld.deps.json
+D:\Programming Codes 2024\C#\C-Repo\bin\Debug\net8.0\helloworld.runtimeconfig.json
+D:\Programming Codes 2024\C#\C-Repo\bin\Debug\net8.0\helloworld.dll
+D:\Programming Codes 2024\C#\C-Repo\bin\Debug\net8.0\helloworld.pdb
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.AssemblyInfoInputs.cache
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.AssemblyInfo.cs
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.csproj.CoreCompileInputs.cache
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.sourcelink.json
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.dll
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\refint\helloworld.dll
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.pdb
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\helloworld.genruntimeconfig.cache
+D:\Programming Codes 2024\C#\C-Repo\obj\Debug\net8.0\ref\helloworld.dll

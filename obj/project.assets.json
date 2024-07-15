@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/captain-thanos/.nuget/packages/": {}
+    "C:\\Users\\darsh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/captain-thanos/Codes/dotnet/C#/helloworld/helloworld.csproj",
+      "projectUniqueName": "D:\\Programming Codes 2024\\C#\\C-Repo\\helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "/home/captain-thanos/Codes/dotnet/C#/helloworld/helloworld.csproj",
-      "packagesPath": "/home/captain-thanos/.nuget/packages/",
-      "outputPath": "/home/captain-thanos/Codes/dotnet/C#/helloworld/obj/",
+      "projectPath": "D:\\Programming Codes 2024\\C#\\C-Repo\\helloworld.csproj",
+      "packagesPath": "C:\\Users\\darsh\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming Codes 2024\\C#\\C-Repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/captain-thanos/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\darsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
